@@ -1,0 +1,84 @@
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\ApplicationInsights.config
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\csc.exe
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\vbc.exe
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\IMAGINaryApi.dll.config
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\IMAGINaryApi.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\IMAGINaryApi.pdb
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.Web.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Newtonsoft.Json.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\System.Web.Http.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.Web.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\Newtonsoft.Json.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\System.Web.Http.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\obj\Debug\IMAGINaryApi.csprojResolveAssemblyReference.cache
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\obj\Debug\IMAGINaryApi.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\obj\Debug\IMAGINaryApi.pdb
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryApi\IMAGINaryApi\bin\MySql.Data.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\ApplicationInsights.config
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\csc.exe
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\System.Collections.Immutable.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\vbc.exe
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\VBCSCompiler.exe
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\roslyn\VBCSCompiler.exe.config
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\IMAGINaryApi.dll.config
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\IMAGINaryApi.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\IMAGINaryApi.pdb
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.Web.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\MySql.Data.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Newtonsoft.Json.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\System.Net.Http.Formatting.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\System.Web.Http.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\System.Web.Http.WebHost.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.Web.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\Newtonsoft.Json.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\System.Net.Http.Formatting.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\System.Web.Http.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\bin\System.Web.Http.WebHost.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\obj\Debug\IMAGINaryApi.csprojResolveAssemblyReference.cache
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\obj\Debug\IMAGINaryApi.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryApi\IMAGINaryApi\obj\Debug\IMAGINaryApi.pdb

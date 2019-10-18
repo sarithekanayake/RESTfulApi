@@ -1,0 +1,35 @@
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\bin\Debug\IMAGINaryClient.exe.config
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\bin\Debug\IMAGINaryClient.exe
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\bin\Debug\IMAGINaryClient.pdb
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.Properties.Resources.resources
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.csproj.GenerateResource.Cache
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.exe
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.pdb
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.Login.resources
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.ManagerUI.resources
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.DeveloperUI.resources
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.ResetPassword.resources
+C:\Users\Sarith Ekanayake\Desktop\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.csprojResolveAssemblyReference.cache
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork\IMAGINaryClient\IMAGINaryClient\bin\Debug\IMAGINaryClient.exe.config
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.exe
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.pdb
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\bin\Debug\IMAGINaryClient.exe.config
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.exe
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.pdb
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\bin\Debug\IMAGINaryClient.exe
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\bin\Debug\IMAGINaryClient.pdb
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\bin\Debug\Newtonsoft.Json.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\bin\Debug\System.Net.Http.Formatting.dll
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\bin\Debug\Newtonsoft.Json.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\bin\Debug\System.Net.Http.Formatting.xml
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.csprojResolveAssemblyReference.cache
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.Login.resources
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.ManagerUI.resources
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.DeveloperUI.resources
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.Properties.Resources.resources
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.ResetPassword.resources
+F:\Documents\PROGRAMMING\C#\New folder\CourseWork Duresh\IMAGINaryClient\IMAGINaryClient\obj\Debug\IMAGINaryClient.csproj.GenerateResource.Cache
